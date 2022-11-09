@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 This study guide was created in order to compile and centrally localize information related to prework for the U of A's web development bootcamp. The webpage outlines the main key takeaways of what was learned in relation to Git, HTML, CSS & JavaScript. It can be used as a reference for coding bootcamp students. 
 
 
